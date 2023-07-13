@@ -1,3 +1,5 @@
+# NextJS-SmartContract-Raffle : Raffle Smart Contract User Interface
+
 This is a minimalistic website/user interface designed to interact with the Raffle smart contract. The Raffle smart contract can be found at https://github.com/sathwikNARKEDimilli29/hardhat_SmartContract_Raffle.
 
 ![image](https://github.com/sathwikNARKEDimilli29/NextJS-SmartContract-Raffle/assets/97584810/76e17e3b-ea8f-48da-9ba5-ad5323c938bb)
